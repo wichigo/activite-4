@@ -3,7 +3,7 @@
 
 ###### Bienvenue dans mon activité 4, et à bientôt !
 
-Un grand esprit un jour à dit :
+Un grand esprit un jour a dit :
 
 > 1 + 1 = 11
 
